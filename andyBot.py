@@ -6,15 +6,9 @@ client = discord.Client()
 
 # IMPORTANT
 # placeChannelID Here
-channel_ID = 866334360542249021
+channel_ID = ""
 # placeBotToken here
 botToken = ""
-
-# variables for Hentai
-doujin = Hentai(321942)
-Hentai.exists(doujin.id)
-
-# variables for Discord bot
 
 
 # give instructions
